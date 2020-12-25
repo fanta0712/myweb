@@ -3,6 +3,6 @@
 # Profile
 **Patchariya Tongkam**
 ### Fanta
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+- [x] สวย
+- [x] เก่ง
+- [x] น่ารักมาก
