@@ -2,7 +2,8 @@
 
 # Profile
 **Patchariya Tongkam**
-### Fanta
+**Fanta**
+
 - [x] สวย
 - [x] เก่ง
 - [x] น่ารักมาก
